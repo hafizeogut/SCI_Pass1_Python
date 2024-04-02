@@ -23,6 +23,7 @@ Proje, assembly dilinde yazılmış kodların analizini sağlayarak yazılım ge
 5. Sonuçlar, `intermediate.txt` ve `Details.txt` dosyalarında bulunabilir.
 
 ## Fonksiyonlar
+![sci_fonction drawio](https://github.com/hafizeogut/SCI_Pass1_Python/assets/94183443/2c50cf61-528a-4d87-b4df-9fd9dc072708)
 
 ### hexadecimal_to_decimal(x)
 
