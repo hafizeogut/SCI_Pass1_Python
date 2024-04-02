@@ -12,9 +12,7 @@ SCİ mimarisinin pass1 algoritması referans alarak yazılmış python kodların
 Bu proje, assembly dilinde yazılmış kodları analiz ederek ara dosyalar oluşturan bir araç sunar. Bu ara dosyalarda, her bir komutun yerini, sembol tablosunu ve programın uzunluğunu belirten bilgiler bulunur. Bu şekilde, assembly kodlarının derlenmesi, çevrilmesi veya analiz edilmesi gibi işlemler kolaylıkla yapılabilir.
 
 # Proje içerği:
-![Başlıksız Diyagram drawio](https://github.com/hafizeogut/SCI_Pass1_Python/assets/94183443/23f0feaa-a737-4275-94c9-8dfef95fe45b)
-
-
+![sci_proje_icerigi drawio](https://github.com/hafizeogut/SCI_Pass1_Python/assets/94183443/3cf0a889-710c-4e10-aec3-0f507e20f703)
 
 # Proje neden faydalıdır?
 Proje, assembly dilinde yazılmış kodların analizini sağlayarak yazılım geliştiricilere ve sistem tasarımcılarına büyük bir kolaylık sunar. Assembly kodlarının anlaşılması ve işlenmesi karmaşık olabilir, bu araç sayesinde kodun anlaşılması ve yönetilmesi daha basit hale gelir. Ayrıca, proje sayesinde kodun hatalarını bulmak ve geliştirmek de daha kolay hale gelir.
