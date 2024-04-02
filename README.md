@@ -11,6 +11,10 @@ SCİ mimarisinin pass1 algoritması referans alarak yazılmış python kodların
 # Proje ne işe yarar?
 Bu proje, assembly dilinde yazılmış kodları analiz ederek ara dosyalar oluşturan bir araç sunar. Bu ara dosyalarda, her bir komutun yerini, sembol tablosunu ve programın uzunluğunu belirten bilgiler bulunur. Bu şekilde, assembly kodlarının derlenmesi, çevrilmesi veya analiz edilmesi gibi işlemler kolaylıkla yapılabilir.
 
+# Proje içerği:
+![proje drawio](https://github.com/hafizeogut/SCI_Pass1_Python/assets/94183443/298f9f11-f89b-48db-b52b-d49145b01569)
+
+
 # Proje neden faydalıdır?
 Proje, assembly dilinde yazılmış kodların analizini sağlayarak yazılım geliştiricilere ve sistem tasarımcılarına büyük bir kolaylık sunar. Assembly kodlarının anlaşılması ve işlenmesi karmaşık olabilir, bu araç sayesinde kodun anlaşılması ve yönetilmesi daha basit hale gelir. Ayrıca, proje sayesinde kodun hatalarını bulmak ve geliştirmek de daha kolay hale gelir.
 
