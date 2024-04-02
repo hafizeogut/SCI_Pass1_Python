@@ -52,3 +52,5 @@ Verilen bir opcode'un opcode tablosunda bulunup bulunmadığını kontrol eder.
 
 Ana işlemlerin gerçekleştirildiği fonksiyon. Kaynak dosyayı analiz eder, sembol tablosunu ve geçici dosyayı oluşturur ve sonuçları raporlar.
 
+### Çalışır video linki:
+https://drive.google.com/drive/u/0/folders/1ShS3H7Paa33dFXeVDQoh6Gz1XyuegSWZ
