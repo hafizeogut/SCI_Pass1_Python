@@ -2,6 +2,10 @@
 SCİ mimarisinin pass1 algoritması referans alarak yazılmış python kodlarını içerir.
 
 # SCI (Superscalar Architecture) mimarisi nedir?
+
+![Resim2](https://github.com/hafizeogut/SCI_Pass1_Python/assets/94183443/dfc45c0b-89c4-43b1-beb1-5d1ce886d3de)
+
+
 İşlemci performansını artırmak için birden çok talimatı aynı anda işleyebilen bir mikroişlemci mimarisidir. 
 
 # Proje ne işe yarar?
